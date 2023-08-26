@@ -1,3 +1,12 @@
+div {
+  color:rgb(69, 59, 59);
+  background-color: blue;
+}
+main {
+  border-style: none;
+  background: fixed;
+  background-color: azure;
+}
 div{
   color:red;
   font-size: large;
