@@ -6,6 +6,7 @@ main {
   border-style: none;
   background: fixed;
   background-color: azure;
+  font-size: medium;
 }
 div{
   color:blue;
