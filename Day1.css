@@ -5,11 +5,14 @@ div {
 main {
   border-style: none;
   background: fixed;
-  background-color: azure;
+  background-color:aquamarine;
+  font-size: medium;
 }
 div{
-  color:red;
+  color:blue;
   font-size: large;
+  font-weight: 100px;
+  background-color: blue;
   
 
 }
