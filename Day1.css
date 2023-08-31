@@ -1,7 +1,24 @@
+div {
+  color:rgb(69, 59, 59);
+  background-color: blue;
+}
+main {
+  border-style: none;
+  background: fixed;
+  background-color:aquamarine;
+  font-size: medium;
+}
 div{
+<<<<<<< HEAD
+  color:blue;
+  font-size: large;
+  font-weight: 100px;
+  background-color: blue;
+=======
   color:blueviolet;
   font-size: large;
   background-color: beige;
+>>>>>>> Saghar199/new-class
   
 
 }
