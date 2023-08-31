@@ -9,13 +9,25 @@ main {
   font-size: medium;
 }
 div{
+<<<<<<< HEAD
   color:blue;
   font-size: large;
   font-weight: 100px;
   background-color: blue;
+=======
+  color:blueviolet;
+  font-size: large;
+  background-color: beige;
+>>>>>>> Saghar199/new-class
   
 
 }
 p{
   color: aqua;
+  font-size: 1rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: red;
 }
+
+
+
